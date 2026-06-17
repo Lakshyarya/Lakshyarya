@@ -7,7 +7,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,00FF41&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=500&color=39D353&width=500&lines=Hello%2C+I'm+Lakshya+Arya!;Full+Stack+Developer;Cloud+Enthusiast;BCA+AI+%26+Data+Science+%40+GEU+🚀" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=500&color=39D353&width=500&lines=Hello%2C+I'm+Lakshya+Arya!" alt="Typing SVG"/>
 </a>
 
 <!--
