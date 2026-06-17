@@ -4,7 +4,7 @@
     Feel free to explore and connect!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A3622,39D353&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,00FF41&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=500&color=39D353&width=500&lines=Hello%2C+I'm+Lakshya+Arya!;Full+Stack+Developer;Cloud+Enthusiast;BCA+AI+%26+Data+Science+%40+GEU+🚀" alt="Typing SVG"/>
@@ -24,13 +24,13 @@
 
 ### 🛠️ Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,mongodb,aws,git,html,css,js,C)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,mongodb,aws,git,html,css,js,ts,tailwind,express,java,mysql,linux,vscode)](https://skillicons.dev)
 
 ---
 
 ### 📚 Currently Studying
 
-[![Learning](https://skillicons.dev/icons?i=docker,tailwind,azure)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 ---
 
@@ -71,9 +71,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshyarya&theme=matrix&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -88,8 +85,7 @@
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"/>
     </a>
     &nbsp;
-    <!-- 🔴 TODO: Replace YOUR_EMAIL@gmail.com with your actual email -->
-    <a href="mailto:lakshyarya18@gmail.com">
+    <a href="mailto:Lakshyarya18@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32"/>
     </a>
 </div>
@@ -106,7 +102,7 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39D353,0A3622&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41,0D1117&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! ⭐ Star some repos if you like what you see!
