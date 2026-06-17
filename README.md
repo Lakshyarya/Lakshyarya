@@ -4,7 +4,7 @@
     Feel free to explore and connect!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,00FF41&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FF41,00FF41&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4500&pause=500&color=39D353&width=500&lines=Hello%2C+I'm+Lakshya+Arya!" alt="Typing SVG"/>
@@ -102,7 +102,7 @@
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF41,0D1117&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FF41,#00FF41&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! ⭐ Star some repos if you like what you see!
